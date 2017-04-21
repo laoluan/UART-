@@ -1,0 +1,9 @@
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\bin\Debug\03串口调试助手(精简版).exe.config
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\bin\Debug\03串口调试助手(精简版).exe
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\bin\Debug\03串口调试助手(精简版).pdb
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\obj\Debug\03串口调试助手(精简版).csprojResolveAssemblyReference.cache
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\obj\Debug\_03串口调试助手_精简版_.Form1.resources
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\obj\Debug\_03串口调试助手_精简版_.Properties.Resources.resources
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\obj\Debug\03串口调试助手(精简版).csproj.GenerateResource.Cache
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\obj\Debug\03串口调试助手(精简版).exe
+D:\C#\串口\03串口调试助手(精简版)\03串口调试助手(精简版)\obj\Debug\03串口调试助手(精简版).pdb
